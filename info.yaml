@@ -23,7 +23,7 @@
         when(--os is 'mac'):
             (project_commands):
                 <<: *commands
-                run: parcel --open Google Chrome index.html tabs/*.html
+                run: parcel --open 'Google Chrome' index.html tabs/*.html
             (dependencies):
                 <<: *dependencies
             (paths):
