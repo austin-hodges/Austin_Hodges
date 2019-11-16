@@ -7,8 +7,10 @@ if OS.is?("mac")
 
 
 elsif OS.is?("windows")
-    system "scoop install node"
+    system "scoop install nodejs"
     system "npm install --global parcel"
+else
+    puts "Sorry this program does not know hhow to setupt on linux"
 
 end
 
