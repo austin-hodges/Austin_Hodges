@@ -9,7 +9,7 @@
             puts 'this is just a default value'
             puts 'replace this with your own ruby code'
         (setup): ruby setup.rb
-project sync
+
 
     paths: &paths
         root: ./
