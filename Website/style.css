@@ -3,8 +3,8 @@ body {
     background-color: rgb(25,135,200);
 }
 
-#links {
-    background-color: white
+a {
+    color: white
 }
 
 
