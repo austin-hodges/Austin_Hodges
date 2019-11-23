@@ -1,8 +1,44 @@
 
+body {
+    /* background-color: rgb(25,135,200); */
+    background-color: #03a9f4;
+}
 
+a {
+    color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(5,175,244);
+    background-color: rgb(5,175,244);
 
+}
+/*color: white;
+    border: 1px solid rgb(5,175,244);
+    background-color: rgb(5,175,244);
+    */
+p {
+    color: black;
+}
 
+h1{
+    color: black ;
+}
 
+h2{
+    color: black;
+}
 
+h3{
+    color: white;
+}
 
+#orgs{
+    color: black;
+}
 
+#achievements{
+    color: black;
+}
+
+#title{
+    color: white;
+}

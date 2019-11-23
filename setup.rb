@@ -10,7 +10,7 @@ elsif OS.is?("windows")
     system "scoop install nodejs"
     system "npm install --global parcel"
 else
-    puts "Sorry this program does not know hhow to setupt on linux"
+    puts "Sorry this program does not know how to setupt on linux"
 
 end
 
