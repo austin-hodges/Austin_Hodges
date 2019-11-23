@@ -8,7 +8,13 @@
 </head>
 <body>
     <script>
-    window.location = "Website/index.html"
+        let url = window.location.href
+        let ending = "index.html"
+        if (url.endsWith(ending)) {
+            url = url.slice(0,-ending.length)
+            }
+        window.location = url + "Website/index.html"
+        
     </script>
 </body>
 </html>
