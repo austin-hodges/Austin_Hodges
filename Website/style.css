@@ -6,11 +6,15 @@ body {
 
 a {
     color: white;
+    border-radius: 5px;
     border: 1px solid rgb(5,175,244);
     background-color: rgb(5,175,244);
+
 }
-/*rgb(5,169,244)
-(14, 164, 233)*/
+/*color: white;
+    border: 1px solid rgb(5,175,244);
+    background-color: rgb(5,175,244);
+    */
 p {
     color: black;
 }
