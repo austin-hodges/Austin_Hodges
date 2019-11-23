@@ -1,0 +1,24 @@
+{
+  "name": "Austin_Hodges",
+  "version": "1.0.0",
+  "description": "Practice for ATK",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin-hodges/Austin_Hodges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin-hodges/Austin_Hodges/issues"
+  },
+  "homepage": "https://github.com/austin-hodges/Austin_Hodges#readme"
+}
