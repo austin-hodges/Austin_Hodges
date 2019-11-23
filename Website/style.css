@@ -5,33 +5,36 @@ body {
 }
 
 a {
-    color: white
+    color: white;
+    border: 1px solid rgb(5,175,244);
+    background-color: rgb(5,175,244);
 }
-
+/*rgb(5,169,244)
+(14, 164, 233)*/
 p {
-    color: black
+    color: black;
 }
 
 h1{
-    color: black 
+    color: black ;
 }
 
 h2{
-    color: black
+    color: black;
 }
 
 h3{
-    color: white
+    color: white;
 }
 
 #orgs{
-    color: black
+    color: black;
 }
 
 #achievements{
-    color: black
+    color: black;
 }
 
 #title{
-    color: white
+    color: white;
 }
